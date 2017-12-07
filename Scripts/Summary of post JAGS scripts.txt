@@ -1,0 +1,9 @@
+# After a model has been run
+
+Checking convergence.R
+Plotting posterior values on prior values.R
+Calculating prior posterior overlap.R
+Making life cycle.R
+Assessing time trends for b and r.R
+Comparing demographic rates between regions.R
+Simulate trajectories with posterior parameter estimates.R
